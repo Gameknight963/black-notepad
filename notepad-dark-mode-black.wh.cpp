@@ -1,6 +1,6 @@
 // ==WindhawkMod==
 // @id              notepad-dark-mode-black
-// @name            Black Dark Mode for Notepad
+// @name            Darker Mode for Notepad
 // @description     The missing dark mode theme for Notepad
 // @version         1.0
 // @author          m417z + gameknight963
