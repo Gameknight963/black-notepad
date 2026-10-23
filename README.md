@@ -4,4 +4,6 @@ darker dark theme for notepad
 
 ignore the windhawk mod readme screenshots, I didn't update them
 
-Intended for use with [translucent-windows-for-win10](https://github.com/Gameknight963/translucent-windows-for-win10)
+Intended for use with [translucent-windows-for-win10](https://github.com/Gameknight963/translucent-windows-for-win10):
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/af5a76ff-3a58-47fc-9ece-8ebc417450e3" />
